@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... improving career and educational outcomes for everyone! 
 - 📫 How to reach me ... gagnierjoshua@gmail.com or [LinkedIn](https://www.linkedin.com/in/joshua-gagnier-7299777a/)! 
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... Owner & Developer for YACEsolutions.com hoping to improve the education to career to advancement pipeline! 
+- ⚡ Fun fact: ... Owner of & Developer for [YACE Solutions](https://www.yacesolutions.com) hoping to improve the education to career to advancement pipeline! 
 
 <!---
 gagnierjoshua/gagnierjoshua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
